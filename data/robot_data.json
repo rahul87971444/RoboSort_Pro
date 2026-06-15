@@ -1,0 +1,22 @@
+{
+    "system_status": "Running",
+    "robot_arm_status": "Running",
+    "weight": 0,
+    "current_object": "Waiting...",
+    "black_small_circle_light": 1,
+    "black_small_circle_heavy": 3,
+    "black_big_circle_light": 1,
+    "black_big_circle_heavy": 0,
+    "white_small_circle_light": 1,
+    "white_small_circle_heavy": 0,
+    "white_big_circle_light": 1,
+    "white_big_circle_heavy": 0,
+    "black_small_rectangle_light": 0,
+    "black_small_rectangle_heavy": 3,
+    "black_big_rectangle_light": 2,
+    "black_big_rectangle_heavy": 0,
+    "white_small_rectangle_light": 0,
+    "white_small_rectangle_heavy": 0,
+    "white_big_rectangle_light": 0,
+    "white_big_rectangle_heavy": 0
+}

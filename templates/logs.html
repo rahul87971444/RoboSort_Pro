@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Sorting Logs</title>
+
+<style>
+
+body{
+    background:#020617;
+    color:white;
+    font-family:Arial;
+    padding:40px;
+}
+
+h1{
+    margin-bottom:20px;
+}
+
+.log-box{
+
+    background:#111827;
+
+    padding:20px;
+
+    border-radius:15px;
+
+    max-height:700px;
+
+    overflow-y:auto;
+}
+
+.log-entry{
+
+    padding:10px;
+
+    border-bottom:1px solid #374151;
+}
+
+a{
+
+    color:#60a5fa;
+
+    text-decoration:none;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>Sorting Logs</h1>
+
+<p>
+<a href="/admin">
+? Back To Dashboard
+</a>
+</p>
+
+<br>
+
+<div class="log-box">
+
+{% for log in logs %}
+
+<div class="log-entry">
+
+{{ log }}
+
+</div>
+
+{% endfor %}
+
+</div>
+
+</body>
+
+</html>

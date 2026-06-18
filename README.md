@@ -2,7 +2,7 @@
 ## IoT-enabled robotic arm system capable of sorting multiple object categories with TFT display monitoring and web-based control dashboard.
 
 <p align="center">
-  <img src="images/setup.jpg" width="700">
+  <img src="images/setup.png" width="700">
 </p>
 
 <p align="center">

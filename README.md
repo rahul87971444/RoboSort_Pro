@@ -219,37 +219,43 @@ Total Categories: **16**
 
 ## Complete System
 
-![System](images/setup.jpg)
+![System](images/setup.png)
 
 ---
 
 ## Robotic Arm
 
-![Arm](images/robotic_arm.jpg)
+![Arm](images/arm.jpeg)
 
 ---
 
 ## TFT Display
 
-![TFT](images/tft_display.jpg)
+![TFT](images/tft.jpeg)
+
+---
+
+## Robosort Login Dashboard
+
+![Login Page](images/robosort_login_dashboard.jpeg)
 
 ---
 
 ## Admin Dashboard
 
-![Admin](images/admin_dashboard.png)
+![Admin](images/admin.jpeg)
 
 ---
 
 ## Viewer Dashboard
 
-![Viewer](images/viewer_dashboard.png)
+![Viewer](images/viewer.jpeg)
 
 ---
 
 ## Sorting Logs
 
-![Logs](images/logs_dashboard.png)
+![Logs](images/logs.jpeg)
 
 ---
 
